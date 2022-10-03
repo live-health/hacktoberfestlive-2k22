@@ -88,7 +88,6 @@ public:
 };
 
 //greedy
-//https://leetcode.com/problems/wildcard-matching/discuss/17810/Linear-runtime-and-constant-space-solution
 //Runtime: 8 ms, faster than 95.12% of C++ online submissions for Wildcard Matching.
 //Memory Usage: 6.6 MB, less than 100.00% of C++ online submissions for Wildcard Matching.
 class Solution {
